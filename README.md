@@ -12,6 +12,6 @@ This project solves the problem of lane line detection based on the method of ve
 - pytorch >= 1.8
 - mmsegmentation >= 1.0
 ## Train
-- 指定tools/lane_with_angle_train.py中的config文件
+- Specify the config file in lane_with_angle_train.py
 - python tools/lane_with_angle_train.py
 
