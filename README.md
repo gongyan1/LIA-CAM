@@ -1,6 +1,6 @@
 # Multimodal Fusion Lane Detection Network based on Images and Steering Angles
 ## Introduction
-This project solves the problem of lane line detection based on the method of vehicle corner fusion, which can effectively improve the effect of lane line detection
+This project solves the problem of lane line detection based on the method of vehicle corner fusion, which can effectively improve the effect of lane line detection.
 ## OverView
 ![overview](imgs/overview.jpg)
 ## Result
